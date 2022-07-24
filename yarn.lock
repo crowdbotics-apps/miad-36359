@@ -1242,6 +1242,9 @@
 "@screens/support-faq@file:./screens/support-faq":
   version "1.0.0"
 
+"@screens/video-listing@file:./screens/video-listing/":
+  version "1.0.0"
+
 "@screens/wallet@file:./screens/wallet":
   version "1.0.0"
 
