@@ -17,6 +17,7 @@
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/budgeting-forecasting": "file:./screens/budgeting-forecasting/",
+    "@screens/forgot-password": "file:./screens/forgot-password/",
     "@screens/getting-started": "file:./screens/getting-started/",
     "@screens/shopping-cart": "file:./screens/shopping-cart/",
     "@screens/suggest-a-feature": "file:./screens/suggest-a-feature/",

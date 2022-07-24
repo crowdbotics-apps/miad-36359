@@ -1214,7 +1214,10 @@
 "@screens/budgeting-forecasting@file:./screens/budgeting-forecasting":
   version "1.0.0"
 
-"@screens/getting-started@file:./screens/getting-started/":
+"@screens/forgot-password@file:./screens/forgot-password/":
+  version "1.0.0"
+
+"@screens/getting-started@file:./screens/getting-started":
   version "1.0.0"
 
 "@screens/shopping-cart@file:./screens/shopping-cart":

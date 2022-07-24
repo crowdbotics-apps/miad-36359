@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-suggest-a-feature](screens/suggest-a-feature)
 - [screen-wallet](screens/wallet)
 - [screen-getting-started](screens/getting-started)
+- [screen-forgot-password](screens/forgot-password)
 
 # Getting started: Frontend
 
