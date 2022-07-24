@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-ledger-listing](screens/ledger-listing)
 - [privacy-policy]()
 - [screen-support-faq](screens/support-faq)
+- [terms-and-conditions]()
 
 # Getting started: Frontend
 
