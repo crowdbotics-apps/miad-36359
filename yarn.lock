@@ -1234,6 +1234,9 @@
 "@screens/suggest-a-feature@file:./screens/suggest-a-feature":
   version "1.0.0"
 
+"@screens/support-faq@file:./screens/support-faq/":
+  version "1.0.0"
+
 "@screens/wallet@file:./screens/wallet":
   version "1.0.0"
 
