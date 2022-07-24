@@ -1211,7 +1211,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/budgeting-forecasting@file:./screens/budgeting-forecasting/":
+"@screens/budgeting-forecasting@file:./screens/budgeting-forecasting":
+  version "1.0.0"
+
+"@screens/shopping-cart@file:./screens/shopping-cart/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
