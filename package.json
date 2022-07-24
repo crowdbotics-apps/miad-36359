@@ -18,6 +18,7 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/budgeting-forecasting": "file:./screens/budgeting-forecasting/",
     "@screens/shopping-cart": "file:./screens/shopping-cart/",
+    "@screens/suggest-a-feature": "file:./screens/suggest-a-feature/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",
